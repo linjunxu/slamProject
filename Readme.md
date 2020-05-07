@@ -22,3 +22,8 @@ notice:
 
 训练集下载地址：http://vision.middlebury.edu/stereo/submit3/
 
+时间和结果图都在子文件夹中，比如./trainingQ/Teddy中
+
+待补全功能：
+1.真实值比较
+2.批量运算
