@@ -55,8 +55,6 @@ cstring
 -
 ctime
 -
-camera.h
-/home/lin/code/slamProject/camera.h
 camera.cpp
 /home/lin/code/slamProject/camera.cpp
 IOReader.cpp

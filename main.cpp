@@ -4,7 +4,6 @@
 #include <string>
 #include <cstring>
 #include <ctime>
-#include "camera.h"
 #include "camera.cpp"
 #include "IOReader.cpp"
 
