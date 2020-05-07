@@ -1,0 +1,4 @@
+BM cost time of 23.225 ms
+SGBM cost time of 183.307 ms
+BM cost time of 18.254 ms
+SGBM cost time of 167.191 ms
